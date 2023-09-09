@@ -1,0 +1,22 @@
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\bin\Debug\Veri_Tabanlı_Secim_Grafik.exe.config
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\bin\Debug\Veri_Tabanlı_Secim_Grafik.exe
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\bin\Debug\Veri_Tabanlı_Secim_Grafik.pdb
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.csprojAssemblyReference.cache
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.OyGiris_Form.resources
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.Grafik_Form.resources
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.Properties.Resources.resources
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.csproj.GenerateResource.cache
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.exe
+C:\Users\SeFiK\source\repos\Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.pdb
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\bin\Debug\Veri_Tabanlı_Secim_Grafik.exe.config
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\bin\Debug\Veri_Tabanlı_Secim_Grafik.exe
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\bin\Debug\Veri_Tabanlı_Secim_Grafik.pdb
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.csproj.AssemblyReference.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.OyGiris_Form.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.Grafik_Form.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.Properties.Resources.resources
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.csproj.GenerateResource.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.csproj.CoreCompileInputs.cache
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.exe
+C:\Users\SeFiK\OneDrive\Masaüstü\eski c#\c# ve sql\Projeler\Form_Veri_Tabanlı_Secim_Grafik\Veri_Tabanlı_Secim_Grafik\obj\Debug\Veri_Tabanlı_Secim_Grafik.pdb
